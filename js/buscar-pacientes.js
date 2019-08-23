@@ -26,3 +26,5 @@ botaoAdicionar.addEventListener("click", function() {
 
   xhr.send();
 });
+
+//Fim
